@@ -3,6 +3,6 @@ terraform {
     bucket = "vkkbucket"
     key = "main"
     region = "ap-south-1"
-    dynamodb_table = "vkdbtable"
+    dynamodb_table = "dbtable"
   }
 }
